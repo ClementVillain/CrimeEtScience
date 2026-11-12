@@ -1,7 +1,7 @@
 # Clue Hunting — Crime & Science
 
 **A competitive 1 vs 1 forensic investigation game made with Unity, played by around 200 visitors at the [Journées du Crime et de la Science](https://www.crimeetscience.com/) 2026.**
-Two forensic agents race against the clock to solve a criminal case: one works the crime scene, the other analyses evidence in the lab.
+Two forensic agents race against the clock to solve a criminal case: both looks for clues in the appartment of the missing person, each clue redirects to a minigame that has to be complete the fastest possible in order to earn the maximum amount of points.
 
 ![High-school students gathered around the Clue Hunting cabinet at the festival](docs/images/festival-crowd.jpg)
 
@@ -16,7 +16,7 @@ Two forensic agents race against the clock to solve a criminal case: one works t
 
 ### My role
 
-The concept and the artwork were a group effort, and I did most of it. Specifically:
+The game concept, the artwork, and the presentatons were a group effort, here is what I done by my self:
 
 - **All of the code**: the whole Unity / C# game was programmed by me.
 - **Game design**: user flow, storyline and world building.
